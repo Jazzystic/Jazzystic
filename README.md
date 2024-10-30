@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋🏽
+"My name is Julio; I have a solid background in Philosophy (B.A.), Mathematics (B.S.), and Data Science (M.S.)."
+- 👨🏽‍💻 I’m currently working on a [Kaggle proyect](https://www.kaggle.com/competitions/gemma-language-tuning) regarding Gemma model variants for a specific language or unique cultural aspect.
+- 📚 I’m currently learning Prolog 
+- 🧗🏽‍♂️ I love climbing!
 
 <!--
 **Jazzystic/Jazzystic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
